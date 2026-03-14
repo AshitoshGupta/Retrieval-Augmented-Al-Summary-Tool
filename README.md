@@ -1,7 +1,3 @@
-Since you’re using this project for your resume and GitHub portfolio, the README should look slightly more professional and recruiter-friendly. Here is an improved version you can use.
-
----
-
 # AI News Research Assistant (RAG-based)
 
 An AI-powered research tool built with Streamlit and Retrieval-Augmented Generation (RAG) that enables users to analyze news articles and ask natural language questions. The application extracts article content from URLs, converts it into vector embeddings, and retrieves relevant information using semantic search to generate accurate answers with source references.
